@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**paleesa/paleesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently studying at Universiti Sains Malaysia (USM), pursuing a Bachelor’s degree in Computer Science, majoring in Intelligent Computing.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning more about web development, machine learning, and data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects related to AI, web apps, or data-driven solutions.
+
+🤔 I’m looking for help with exploring real-world applications of machine learning.
+
+📫 How to reach me: www.linkedin.com/in/muhammad-naufal-hanizar
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy turning complex problems into creative solutions—whether it’s through code or coffee-fueled brainstorming sessions!
